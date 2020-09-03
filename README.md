@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://run.kaist.ac.kr/badges/codeforces/jscn.svg)
 
 <!--
 **jscn17/jscn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
